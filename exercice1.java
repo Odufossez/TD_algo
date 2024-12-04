@@ -1,4 +1,4 @@
-package Melange_tableau;
+package manipTableaux;
 
 import java.util.Scanner;
 
