@@ -8,7 +8,7 @@ public class ReversiExo {
         return (int) (Math.random()*intervalle) + min;
     }
 
-    
+
 
     public static void melangeTab(int[] tab , int N){
        for (int i = 0; i < N-1; i++){
