@@ -13,6 +13,7 @@ public class TicTacToe {
 
         return placePrise;
     }
+
     public static int joueur(char[] emplacement , int joueur){
         Scanner scanner = new Scanner(System.in);
         int indice;
