@@ -74,7 +74,7 @@ public class rupture {
         //afficheTab(tab);
 
         int[] tabRup = ruptureFct(tab);
-        afficheTab(tabRup);
+        //afficheTab(tabRup);
 
         int[][] tabSeq = returnSeq(tab , tabRup);
 
